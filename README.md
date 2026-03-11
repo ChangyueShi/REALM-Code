@@ -6,8 +6,8 @@
 ## **🔧Preparation**
 Clone this repository
 ```
-git clone https://github.com/AnonymousAuthor-REALM/REALM.git
-cd REALM
+git clone https://github.com/ChangyueShi/REALM-Code
+cd REALM-Code
 ```
 prepare the environment
 ```
