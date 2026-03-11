@@ -1,7 +1,7 @@
 # REALM
-> [**REALM: An MLLM-Agent Framework for Open-World Reasoning Segmentation and Editing on 3D Gaussian Splatting**]
+> [**[CVPR 2026] REALM: An MLLM-Agent Framework for Open-World Reasoning Segmentation and Editing on 3D Gaussian Splatting**]
 
-> [[Project Page]](https://anonymousauthor-realm.github.io/)
+> [[Project Page]](https://changyueshi.github.io/REALM/)
 
 ## **🔧Preparation**
 Clone this repository
